@@ -9,7 +9,7 @@
 
     // config:
     sharedKey = ""; // your shared key of millipay
-    baselink = "http://demo-mybutton.millipay.ch/b6dd089a519fc9b41078b532b0df1256/payment/start"; // your shared key of millipay
+    baselink = "http://demo-mybutton.millipay.ch/b6dd089a519fc9b41078b532b0df1256/payment/start"; // baseurl millipay
 
     // create millipay-helper-object
     millipayHelper = new Millipay(sharedKey=sharedKey,baselink=baselink);
